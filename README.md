@@ -12,7 +12,8 @@ This project helps learners understand how to:
 <br>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flask_logo.svg" width="100" alt="Flask Logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="100" alt="Flask Logo"/>
+
 </p>
 
 ---
