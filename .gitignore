@@ -1,0 +1,1 @@
+__pycache__/\n*.pyc\n.env\ndist/\nbuild/\n*.egg-info/\n*.log\n.DS_Store
